@@ -1,0 +1,17 @@
+Package                   Version
+------------------------- --------------------
+einops                    0.7.0
+matplotlib                3.8.2
+mmcv                      0.4.3
+numpy                     1.24.4
+onnx                      1.15.0
+onnxruntime               1.16.3
+onnxruntime-gpu           1.16.3
+opencv-contrib-python     4.5.5.64
+opencv-python             4.5.5.64
+opencv-python-headless    4.5.5.64
+Pillow                    8.4.0
+tensorrt                  8.6.1
+termcolor                 2.4.0
+timm                      0.9.12
+torchvision               0.16.0
