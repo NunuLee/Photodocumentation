@@ -5,15 +5,10 @@ This repository provides the implementation of the paper:
 **"Evaluation of an Artificial Intelligence-Based System for Real-Time High-Quality Photodocumentation during Esophagogastroduodenoscopy"**
 
 ### 👩‍💻 **Authors**
-- Byeong Yun Ahn  
-- Junwoo Lee  
-- Jeonga Seol  
-- Ji Yoon Kim  
-- Raymond Kim  
-- Hyunsoo Chung  
+- Byeong Yun Ahn, Junwoo Lee, Jeonga Seol, Ji Yoon Kim, Hyunsoo Chung  
 
 For further details about the methodology and results, please refer to the full paper:  
-[Link to the Paper]() (TBD)
+[Link to the Paper](https://www.nature.com/articles/s41598-024-83721-9)
 
 ---
 
@@ -45,5 +40,4 @@ For detailed instructions, refer to the [train_code/README.md](train_code/readme
 ---
 
 ## 📄 **Citations**
-If you use this repository in your research, please cite the original paper: (TBD)
-
+If you use this repository in your research, please cite the original paper
